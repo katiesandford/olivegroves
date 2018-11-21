@@ -1,6 +1,5 @@
-{
-	"olives":
-  [{
+[
+  {
     "oliveType": "Kalamon",
     "color": "black",
     "treeId": 1541528150902,
@@ -301,4 +300,3 @@
     "kg": 239
   }
 ]
-}
